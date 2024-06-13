@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25270736.css",
+    "main.js": "/static/js/main.56cd3c89.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/PageCarouselPrintit.PNG": "/static/media/PageCarouselPrintit.4523bdfb71026b609bd5.PNG",
+    "static/media/Menuohmyfood.PNG": "/static/media/Menuohmyfood.669904c950b4eaf7e5a9.PNG",
+    "static/media/Commandeohmyfood.PNG": "/static/media/Commandeohmyfood.432d388e3afcc4672447.PNG",
+    "static/media/CarouselPrintit.PNG": "/static/media/CarouselPrintit.06aa3a304668562ff30d.PNG",
+    "static/media/logo-react.png": "/static/media/logo-react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/logo-sass.png": "/static/media/logo-sass.7cdbf6b5889c42b3e490.png",
+    "static/media/accueilohmyfood.PNG": "/static/media/accueilohmyfood.18078f07422cddc7382a.PNG",
+    "static/media/Commande2ohmyfood.PNG": "/static/media/Commande2ohmyfood.97b641656b767336a8d8.PNG",
+    "static/media/logo-css.png": "/static/media/logo-css.e45638344f12f3855ca0.png",
+    "static/media/logo-js.png": "/static/media/logo-js.ec1c0379d0e87cc38946.png",
+    "static/media/logo-html.png": "/static/media/logo-html.eef9c7ea3d47f2dcd4c8.png",
+    "static/media/Logo-aymeric.png": "/static/media/Logo-aymeric.c37a4063b3b46514aace.png",
+    "static/media/TitrePrintit.PNG": "/static/media/TitrePrintit.93994a545ebcd6e85a98.PNG",
+    "static/media/TitreOhmyfood.PNG": "/static/media/TitreOhmyfood.3dd05e1cd73a28066a2a.PNG",
+    "index.html": "/index.html",
+    "main.25270736.css.map": "/static/css/main.25270736.css.map",
+    "main.56cd3c89.js.map": "/static/js/main.56cd3c89.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25270736.css",
+    "static/js/main.56cd3c89.js"
+  ]
+}
