@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-app-projet12/static/css/main.662faf66.css",
-    "main.js": "/React-app-projet12/static/js/main.c411db04.js",
+    "main.js": "/React-app-projet12/static/js/main.94c117c7.js",
     "static/js/787.0957ab89.chunk.js": "/React-app-projet12/static/js/787.0957ab89.chunk.js",
     "static/media/PageCarouselPrintit.PNG": "/React-app-projet12/static/media/PageCarouselPrintit.4523bdfb71026b609bd5.PNG",
     "static/media/Menuohmyfood.PNG": "/React-app-projet12/static/media/Menuohmyfood.669904c950b4eaf7e5a9.PNG",
@@ -19,11 +19,11 @@
     "static/media/TitreOhmyfood.PNG": "/React-app-projet12/static/media/TitreOhmyfood.3dd05e1cd73a28066a2a.PNG",
     "index.html": "/React-app-projet12/index.html",
     "main.662faf66.css.map": "/React-app-projet12/static/css/main.662faf66.css.map",
-    "main.c411db04.js.map": "/React-app-projet12/static/js/main.c411db04.js.map",
+    "main.94c117c7.js.map": "/React-app-projet12/static/js/main.94c117c7.js.map",
     "787.0957ab89.chunk.js.map": "/React-app-projet12/static/js/787.0957ab89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.662faf66.css",
-    "static/js/main.c411db04.js"
+    "static/js/main.94c117c7.js"
   ]
 }
