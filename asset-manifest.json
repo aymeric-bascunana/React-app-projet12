@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-app-projet12/static/css/main.07628811.css",
+    "main.css": "/React-app-projet12/static/css/main.e36ed3b5.css",
     "main.js": "/React-app-projet12/static/js/main.74d1ebfe.js",
     "static/js/787.0957ab89.chunk.js": "/React-app-projet12/static/js/787.0957ab89.chunk.js",
     "static/media/PageCarouselPrintit.PNG": "/React-app-projet12/static/media/PageCarouselPrintit.4523bdfb71026b609bd5.PNG",
@@ -18,12 +18,12 @@
     "static/media/TitrePrintit.PNG": "/React-app-projet12/static/media/TitrePrintit.93994a545ebcd6e85a98.PNG",
     "static/media/TitreOhmyfood.PNG": "/React-app-projet12/static/media/TitreOhmyfood.3dd05e1cd73a28066a2a.PNG",
     "index.html": "/React-app-projet12/index.html",
-    "main.07628811.css.map": "/React-app-projet12/static/css/main.07628811.css.map",
+    "main.e36ed3b5.css.map": "/React-app-projet12/static/css/main.e36ed3b5.css.map",
     "main.74d1ebfe.js.map": "/React-app-projet12/static/js/main.74d1ebfe.js.map",
     "787.0957ab89.chunk.js.map": "/React-app-projet12/static/js/787.0957ab89.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07628811.css",
+    "static/css/main.e36ed3b5.css",
     "static/js/main.74d1ebfe.js"
   ]
 }
